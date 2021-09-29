@@ -1,6 +1,21 @@
-# Data Science Salary Estimator: Project Overview
-Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-Scraped over 1000 job descriptions from glassdoor using python and selenium
-Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
-Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
-Built a client facing API using flask
+# Data Analysis Electronic Sales : Project Overview
+- Created a tool that estimates data analysis electronic sales to help the organization to understand the sales process.
+- A meaningfull Data visualization 
+- Adding more attributes for helping in analysis
+
+# Libraries 
+* pandas 
+* matplotlib.pylab as plt
+* numpy as np
+* os 
+
+
+# Questions 
+*  What was the best month for sale ? and how much ?
+*  What city the highest number of total price?
+*  What time should we display advertisments to maxmize liklihoodof customer's buying product?
+*  What products are most often sold together?
+*  What product sold the most ? and why ?
+
+# EDA 
+![](https://github.com/AhmedKKhalid/Electronic_Sales/blob/main/ScreenShots/3.PNG)
